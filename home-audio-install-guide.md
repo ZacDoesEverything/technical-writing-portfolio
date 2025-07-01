@@ -33,12 +33,12 @@ It’s intended for beginners with minimal AV experience and covers component se
 ### Step 2: Connect the Speakers
 - Measure and cut speaker wire for each speaker location  
 - Strip ~½ inch of insulation from each end of the wire  
-- Match polarity: connect positive (+) on amp to positive on speaker  
-- Optional: Use banana plugs for easier connection
+- Match polarity: connect positive (+) on the amp to positive on the speaker  
+- Optional: Use banana plugs for an easier connection
 
 ### Step 3: Connect the Audio Source
 - Plug in audio sources (TV, turntable, game console) via HDMI or RCA  
-- Make sure receiver input settings match the correct source
+- Make sure the receiver input settings match the correct source
 
 ### Step 4: Power & Test
 - Plug everything into a surge protector  

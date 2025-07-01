@@ -36,7 +36,7 @@ It’s intended for beginners with minimal AV experience and covers component se
 - Match polarity: connect positive (+) on amp to positive on speaker  
 - Optional: Use banana plugs for easier connection
 
-### Step 3: Connect the Source
+### Step 3: Connect the Audio Source
 - Plug in audio sources (TV, turntable, game console) via HDMI or RCA  
 - Make sure receiver input settings match the correct source
 

@@ -5,7 +5,7 @@ Welcome! Below are writing samples that highlight my ability to document technic
 
 ## 📁 Portfolio Samples
 
-- [How to Install a Home Audio System](Home_Audio_Install_Guide_Portfolio.pdf)
+- [How to Install a Home Audio System](home-audio-install-guide.md)
 - [Beginner’s Guide to Adobe After Effects](After_Effects_Beginner_Guide_Portfolio.pdf)
 - [CNC Router Safety & Setup Procedures](CNC_Router_Safety_Setup_Guide_Portfolio.pdf)
 
